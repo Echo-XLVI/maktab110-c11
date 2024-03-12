@@ -1,0 +1,6 @@
+*.bak
+.cw11-1.pdf
+.Modules.py
+.__pycache__/
+.final_stories/
+.temp_stories/
